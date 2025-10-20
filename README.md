@@ -1,4 +1,4 @@
-# 🎓 Bem-vindos à [Nome da Equipe/Organização]! 👋
+# 🎓 Bem-vindos à Nome da Equipe! 👋
 
 Somos uma equipe de estudantes e desenvolvedores focados em aplicar soluções de **Internet das Coisas (IoT)** e desenvolvimento de software para desafios do agronegócio e bem-estar animal.
 
